@@ -1,0 +1,30 @@
+button
+{
+    background-color:rgb(54, 150, 71);
+    color: rgb(228, 232, 229);
+    font-family:serif;
+    width: 100px;
+    height: 100px;
+    border-radius:10px;
+
+}
+#contene
+{
+    width: 900px;
+    height: 700px;
+    background-color: rgb(206, 193, 152);
+    display:flex;
+    flex-wrap:wrap;
+    padding: 20px;
+    border: 1px solid black;
+}
+.tar
+{
+    border: 4px solid black;
+    color: rgb(245, 240, 249);
+    height: 90px;
+    width: 90px;
+    background-color: rgb(66, 66, 151);
+    text-align: center;
+
+}
