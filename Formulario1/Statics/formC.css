@@ -9,6 +9,7 @@
     align-items: center;
     margin: 0 auto;
     border-radius: 50px;
+    flex-wrap: wrap;
 }
 body{
     background-color: rgb(121, 121, 244);
@@ -17,4 +18,8 @@ input , textarea
 {
     background-color: azure;
     
+}
+#fondo
+{
+    border-color: red;
 }
